@@ -4,5 +4,5 @@ def adicao(x, y):
 def subtracao(x, y):
     return x-y
 
-def multiplicao(x, y):
+def multiplicacao(x, y):
     return x*y
